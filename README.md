@@ -26,9 +26,6 @@ https://github.com/user-attachments/assets/589f6004-8900-4cca-b039-3f6cc049cd5b
 
 
 
-👉 [Watch the Demo Video](https://drive.google.com/file/d/1O54cPK2LpZvxd8LIHdNWbCIE1XT2ZU7k/view?usp=sharing)
-
----
 
 ## 🚀 Getting Started
 
