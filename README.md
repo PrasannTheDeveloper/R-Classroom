@@ -4,6 +4,8 @@
 It runs all your **R code, charts, and diagrams**, with **AI integration** to boost productivity.
 
 🔗 **[Download R Classroom](https://drive.google.com/file/d/1O54cPK2LpZvxd8LIHdNWbCIE1XT2ZU7k/view?usp=sharing)**
+[R Classroom.zip](https://github.com/user-attachments/files/22064472/R.Classroom.zip)
+
 
 ---
 
